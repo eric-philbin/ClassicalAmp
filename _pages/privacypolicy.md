@@ -5,56 +5,52 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+November 12, 2026
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+## Privacy Policy
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+In short: ClassicalAmp does not collect, sell or share your personal information. Your library and settings stay on your devices and in your own iCloud account. We have no servers that receive data about you or your listening.
 
-<br>
+This policy explains how ClassicalAmp (“the app”), made by Eric Philbin (“we”, “us”), handles information when you use it on iPhone, iPad and CarPlay.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+### Information we do not collect
+We do not ask you to create an account, and <ins>we do not collect:</ins>
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+* Your name, email address, phone number or contacts
+* Your location
+* Your music files, tags or library contents
+* What you listen to, or when
+* Advertising identifiers
+* The app contains no advertising, no analytics and no third-party tracking tools.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+### Information stored on your device
+To organize and play your music, ClassicalAmp reads the tags embedded in your music files (such as composer, work, movement and performers) and stores a library index, playlists and settings on your device. This information never leaves your device except through iCloud, as described below.
 
-<br>
+### iCloud
+If you are signed in to iCloud, ClassicalAmp can keep your library and settings in sync across your devices. This data is stored in your own private iCloud account and handled by Apple under Apple’s Privacy Policy. We cannot see or access it. You can turn off iCloud for ClassicalAmp at any time in Settings → [your name] → iCloud.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+### Music files and servers you connect to
+ClassicalAmp plays music files that you provide, whether stored on your device or on a server or storage service you choose to connect. When the app fetches files from a server you have added, it connects directly to that server. Any information that server receives, such as your IP address, is governed by whoever operates it, not by us. Any sign-in details you enter for such a server are stored securely in your device’s Keychain and are never sent to us.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+### Notifications
+If you allow notifications, Apple’s Push Notification service delivers them using a device token. That token is used only to deliver notifications to your device. You can turn notifications off at any time in Settings → Notifications → ClassicalAmp.
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+### CarPlay
+When you use ClassicalAmp with CarPlay, playback information is shown on your car’s display. We do not collect any information from your car.
 
-<br>
+### Crash reports
+If you choose to share analytics with app developers in your device settings, Apple may send us anonymous crash reports and diagnostics. These contain no personal information and help us fix problems. You can change this in Settings → Privacy & Security → Analytics & Improvements.
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+### Children
+ClassicalAmp does not knowingly collect information from anyone, including children under 13.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+### Deleting your data
+Because your data is kept on your devices and in your iCloud account, you remain in control of it. Deleting the app removes its data from that device. To remove synced data, go to Settings → [your name] → iCloud → Manage Account Storage and delete ClassicalAmp’s data.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+### Changes to this policy
+If we change this policy, we will post the updated version on this page and update the effective date above.
 
-<br>
+### Contact
+Questions about this policy? Email eric@philbin.io
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+©2026 Eric Philbin
