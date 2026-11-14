@@ -56,7 +56,7 @@ features                                  :
 
   - title                                 : Browse by period, genre and instrument
     description                           : Explore your library by era, from Medieval onward, by genre from Orchestral to Opera to Film Score, or by the instruments a work is written for.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : guitar
   
   - title                                 : Collections, playlists and favorites
     description                           : Group works into your own collections, such as "Late Quartets," build playlists movement by movement, and mark favorite composers, works, recordings and performers.
@@ -64,11 +64,11 @@ features                                  :
 
   - title                                 : Album booklets and back covers
     description                           : Add the PDF booklet to an album and read the liner notes while you listen. Tap an album's cover to flip it over and see the back cover.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+    fontawesome_icon_name                 : abook-open
 
   - title                                 : Synced with iCloud, ready for CarPlay
     description                           : Your edits, collections, playlists and favorites stay in sync across your devices through your private iCloud. CarPlay lets you browse by composer and genre while you drive.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : apple
     
   - title                                 : Compare performances in sync
     description                           : Switch between two recordings of the same work, and playback picks up at the matching note in the other one, not just the same point in time. ClassicalAmp analyzes both performances to line them up, even when the tempos differ.
