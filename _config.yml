@@ -39,7 +39,7 @@ mastodon_link                             : https://sfba.social/@blitzen
 features                                  :
 
   - title                                 : Your own music, your own server
-    description                           : Play your FLAC and  M4A/AAC/Apple Lossless files from your Plex or Jellyfin server. You can also upload them straight to the app from a browser on the same Wi-Fi, no server needed.
+    description                           : Play your FLAC and  M4A/AAC/Apple Lossless files from your Plex or Jellyfin server. Or upload them straight to the app from a browser on the same Wi-Fi, no server needed.
     fontawesome_icon_name                 : file-audio
 
   - title                                 : Composer and work first
@@ -59,7 +59,7 @@ features                                  :
     fontawesome_icon_name                 : guitar
   
   - title                                 : Collections, playlists and favorites
-    description                           : Group works into your own collections, such as "Late Quartets," build playlists movement by movement, and mark favorite composers, works, recordings and performers.
+    description                           : Group works into your own collections, build playlists movement by movement, and mark favorite composers, works, recordings and performers.
     fontawesome_icon_name                 : star
 
   - title                                 : Album booklets and back covers
