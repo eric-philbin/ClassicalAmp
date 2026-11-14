@@ -64,7 +64,7 @@ features                                  :
 
   - title                                 : Album booklets and back covers
     description                           : Add the PDF booklet to an album and read the liner notes while you listen. Tap an album's cover to flip it over and see the back cover.
-    fontawesome_icon_name                 : abook-open
+    fontawesome_icon_name                 : book-open
 
   - title                                 : Synced with iCloud, ready for CarPlay
     description                           : Your edits, collections, playlists and favorites stay in sync across your devices through your private iCloud. CarPlay lets you browse by composer and genre while you drive.
@@ -72,7 +72,7 @@ features                                  :
     
   - title                                 : Compare performances in sync
     description                           : Switch between two recordings of the same work, and playback picks up at the matching note in the other one, not just the same point in time. ClassicalAmp analyzes both performances to line them up, even when the tempos differ.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : code-compare
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
