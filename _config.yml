@@ -38,40 +38,40 @@ mastodon_link                             : https://sfba.social/@blitzen
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
-
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Your own music, your own server
+    description                           : Play your FLAC and  M4A/AAC/Apple Lossless files from your Plex or Jellyfin server. You can also upload them straight to the app from a browser on the same Wi-Fi, no server needed.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Composer and work first
+    description                           : Browse your library by composer and work instead of by artist and song. Every recording of a work sits side by side, and each work's movements stay together in order.
+    fontawesome_icon_name                 : magic
+    
+  - title                                 : Every performer in their proper role
+    description                           : Conductors, orchestras, ensembles, choirs and soloists are each credited in their own role, instead of being lumped together as "artist."
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Download for offline listening
+    description                           : Save albums and recordings to your iPhone or iPad to listen without a connection. You can choose a separate streaming quality for Wi-Fi and for cellular.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Browse by period, genre and instrument
+    description                           : Explore your library by era, from Medieval onward, by genre from Orchestral to Opera to Film Score, or by the instruments a work is written for.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Collections, playlists and favorites
+    description                           : Group works into your own collections, such as "Late Quartets," build playlists movement by movement, and mark favorite composers, works, recordings and performers.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Album booklets and back covers
+    description                           : Add the PDF booklet to an album and read the liner notes while you listen. Tap an album's cover to flip it over and see the back cover.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Synced with iCloud, ready for CarPlay
+    description                           : Your edits, collections, playlists and favorites stay in sync across your devices through your private iCloud. CarPlay lets you browse by composer and genre while you drive.
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Compare performances in sync
+    description                           : Switch between two recordings of the same work, and playback picks up at the matching note in the other one, not just the same point in time. ClassicalAmp analyzes both performances to line them up, even when the tempos differ.
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
